@@ -1,5 +1,0 @@
-added this from Github
-do not do this manually
-this is just practice
-
-editor: Java is cool
